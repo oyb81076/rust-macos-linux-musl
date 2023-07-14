@@ -1,3 +1,4 @@
+# rust macos交叉编译到linux x86 64
 ## 大陆镜像设置以及交叉编译设置
 
 ```sh
@@ -25,3 +26,6 @@ rustup target add x86_64-unknown-linux-musl
 cargo install cross
 brew install filosottile/musl-cross/musl-cross
 ```
+
+## 编译
+``sh build.sh``

@@ -9,4 +9,4 @@ edition = "2021"
 
 [[bin]]
 name = "rs"
-path = "main.rs"
+path = "src/main.rs"
