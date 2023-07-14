@@ -1,4 +1,5 @@
-# rust macos交叉编译到linux x86 64
+# rust macos 交叉编译到 linux x86 64
+
 ## 大陆镜像设置以及交叉编译设置
 
 ```sh
@@ -28,4 +29,9 @@ brew install filosottile/musl-cross/musl-cross
 ```
 
 ## 编译
-``sh build.sh``
+
+`sh build.sh`
+
+## cargo dependencies
+
+https://crates.io/
